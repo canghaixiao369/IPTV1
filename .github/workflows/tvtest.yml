@@ -1,11 +1,11 @@
 name: itvlist
 
 on:
+  push:
   schedule:
     - cron: '0 22 * * *'
-  push:
-    branches:
-      - main
+  
+   
 
 jobs:
   build:

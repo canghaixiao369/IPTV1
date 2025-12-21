@@ -1,9 +1,9 @@
 央视频道,#genre#
+CCTV5,http://123.129.70.178:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://61.156.228.12:8154/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
 其他频道,#genre#
-河南｜兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-河南｜叶县电视,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-河南｜周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+河南｜开封公共,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
 河南｜新乡综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 河南｜济源电视一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 河南｜禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8

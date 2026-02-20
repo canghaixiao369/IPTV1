@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://218.13.170.98:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://218.13.170.98:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://218.13.170.98:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南｜兰考新闻
-http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 #EXTINF:-1 group-title="其他频道",河南｜叶县电视
 http://live.dxhmt.cn:9081/tv/10422-1.m3u8
 #EXTINF:-1 group-title="其他频道",河南｜周口扶沟
@@ -15,8 +7,6 @@ http://live.dxhmt.cn:9081/tv/11621-1.m3u8
 http://live.dxhmt.cn:9081/tv/10200-3.m3u8
 #EXTINF:-1 group-title="其他频道",河南｜新乡综合
 http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-#EXTINF:-1 group-title="其他频道",河南｜济源电视一套
-http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 group-title="其他频道",河南｜禹州综合
 http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 #EXTINF:-1 group-title="其他频道",河南｜范县新闻综合
